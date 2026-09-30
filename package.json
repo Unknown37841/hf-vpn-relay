@@ -1,0 +1,12 @@
+{
+  "name": "hf-edge-relay",
+  "version": "1.0.0",
+  "description": "VLESS WebSocket Relay to Render Load Balancer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
